@@ -21,6 +21,11 @@
    cursor: pointer;
  }
  
+ .main-image-block:hover {
+   background: #D8D8D8;
+   cursor: pointer;
+ }
+ 
  .flex-center {
    display: flex;
    align-items: center;

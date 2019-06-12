@@ -361,21 +361,25 @@
    }
    .header-search-streetMin {
      margin: 40px 0 0;
-     position: relative;
      justify-content: space-around;
    }
    .title {
      padding: 40px 0 16px 8px;
    }
+   .asap-btn,
+   .header-search-block {
+     position: relative;
+   }
    .text-whenMin {
      position: absolute;
-     top: -20px;
-     left: 2px;
+     top: -35px;
+     left: 0px;
+     padding: 0;
    }
    .text-toMin {
      position: absolute;
-     top: -20px;
-     left: 85px;
+     top: -25px;
+     left: -8px;
    }
    .main-image-block {
      flex-basis: 100%;
